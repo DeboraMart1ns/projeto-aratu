@@ -1,0 +1,82 @@
+body {
+    background-color: #white;
+	font-size: 30px;
+	color: #822828;
+	text-align: left;
+    font-family:cursive;
+
+}
+
+#ondas {
+    width: 100%;
+}
+
+.aratu1{
+    text-align: top;
+    margin-top: top;
+    width: 40%;
+}
+h1 {
+	color: rgb(93, 93, 47);
+	text-align:center;
+	widht: 10px;
+    font-family:cursive;
+}
+
+p {
+	color: #2a2d47
+}
+
+#cabecalho {
+	padding: 20px;
+	margin-left: 375px;
+	width:30%;
+    background-color: aquamarine;
+}
+
+.principal{
+	background: #white;
+	padding: 30px;
+    line-height:0;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: left;
+}
+
+p {
+	text-align: left;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #0e0b0b;
+}
+
+.itens {
+	font-style: italic
+}
+
+.conteudo {
+	background: #white;
+	padding: 20px;
+    font-size:25px;
+}
+
+ul {
+	display: block;
+	vertical-align: top;
+	width: 25%;
+	margin-right: 15%;
+}
+
+.imagemfiloetec {
+	width: 50%;
+}
